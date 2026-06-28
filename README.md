@@ -33,16 +33,14 @@
 | **[ARIA](https://tryaria.xyz)** | AI product live in prod — research + decision support | Python · Fly.io · LiteLLM |
 | **AutoQuant** | Trading-rule discovery engine; finds & backtests signals | Python · Alpaca |
 | **Bull Trading** | Live momentum system — weekly rebalance, top-15, autonomous watchdog | Python · Alpaca |
-| **[focus-forecast](https://github.com/sachinai1981-web/focus-forecast)** | Pomodoro PWA that forecasts tomorrow's focus with TimesFM | HTML · PWA · TimesFM |
+| **focus-forecast** | Pomodoro PWA that forecasts tomorrow's focus with TimesFM | HTML · PWA · TimesFM |
 | **focuscard-ios** | iPhone planner app | Expo · React Native |
-| **[ServiceNow Migration Calculator](https://github.com/sachinai1981-web/servicenow-migration-calculator)** | Free CIO tool: ServiceNow → Freshservice cost & ROI | HTML/CSS/JS |
+| **ServiceNow Migration Calculator** | Free CIO tool: ServiceNow → Freshservice cost & ROI | HTML/CSS/JS |
 | **sales-outreach-automation** | ITSM prospect research, scoring & email gen | Python · LangGraph |
-| **[subject-line-scorer](https://github.com/sachinai1981-web/subject-line-scorer)** | Cold-email subject line scorer & generator | HTML/CSS/JS |
+| **subject-line-scorer** | Cold-email subject line scorer & generator | HTML/CSS/JS |
 | **notion-mcp-server** | MCP server connecting Claude to the Notion API | Node · TypeScript |
-| **[transcript-extraction-prompt](https://github.com/sachinai1981-web/transcript-extraction-prompt)** | 13-lens prompt → structured knowledge asset | Prompt |
-| **[pen-render](https://github.com/sachinai1981-web/pen-render)** | Interactive 3D pen X-ray render | Three.js |
-
-➡️ More on my **[repositories](https://github.com/sachinai1981-web?tab=repositories)** page.
+| **transcript-extraction-prompt** | 13-lens prompt → structured knowledge asset | Prompt |
+| **pen-render** | Interactive 3D pen X-ray render | Three.js |
 
 ---
 
