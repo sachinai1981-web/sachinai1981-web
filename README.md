@@ -25,17 +25,17 @@
 ## 🧬 Life OS — thirty local-first apps on one shared spine
 
 <p align="center">
-  <a href="https://www.sachinai.com"><img src="./assets/life-os.png" width="100%" alt="Life OS — a showcase of six of the thirty apps" /></a>
+  <a href="https://github.com/sachinai1981-web?tab=repositories&q=life-os&type=source"><img src="./assets/life-os.png" width="100%" alt="Life OS — a showcase of six of the thirty apps" /></a>
 </p>
 
-Thirty small apps that run **100% in your browser** — no server, no account, **zero network calls**. One idea underneath all of them: **the model narrates, the math decides.** Streaks, forecasts, calibration scores, energy-aware schedules, priority triage — all deterministic, all auditable, all yours to fork.
+Thirty small apps that run **100% in your browser** — no server, no account, **zero network calls**. One idea underneath all of them: **the model narrates, the math decides.** Streaks, forecasts, calibration scores, energy-aware schedules, priority triage — all deterministic, all auditable, and **each one its own repo you can download or fork.**
 
 | | | |
 |---|---|---|
-| 🎲 **Odds of You** — your real probability of hitting a goal, Monte-Carlo'd from your show-up rate | 🎯 **Calibration Coach** — score your predictions; see how over/under-confident you really are | 🧠 **Brain Dump → Plan** — a messy list becomes a feasible week, deep work in your energy peaks |
-| 📥 **Inbox Triage** — auto-file the noise, flag the five emails that need you | 🪞 **Focus Mirror** — where your attention actually went vs. where you said it would | 🔁 **Comeback Protocol** — a streak tracker built for the day you *break* the streak |
+| 🎲 **[Odds of You](https://sachinai1981-web.github.io/life-os-odds-of-you/)** — your real probability of hitting a goal, Monte-Carlo'd from your show-up rate | 🎯 **[Calibration Coach](https://sachinai1981-web.github.io/life-os-calibration-coach/)** — score your predictions; see how over/under-confident you really are | 🧠 **[Brain Dump → Plan](https://sachinai1981-web.github.io/life-os-brain-dump-plan/)** — a messy list becomes a feasible week, deep work in your peaks |
+| 📥 **[Inbox Triage](https://sachinai1981-web.github.io/life-os-inbox-triage/)** — auto-file the noise, flag the five emails that need you | 🪞 **[Focus Mirror](https://sachinai1981-web.github.io/life-os-focus-mirror/)** — where your attention actually went vs. where you said it would | 🔁 **[Comeback Protocol](https://sachinai1981-web.github.io/life-os-comeback-protocol/)** — a streak tracker built for the day you *break* the streak |
 
-<p align="center"><b>…and 24 more. →</b> <a href="https://www.sachinai.com"><b>Explore Life OS</b></a></p>
+<p align="center"><b>…and 24 more →</b> <a href="https://github.com/sachinai1981-web?tab=repositories&q=life-os&type=source"><b>Browse all 30 Life OS repos</b></a> · each is a downloadable single-file app</p>
 
 ---
 
@@ -43,7 +43,7 @@ Thirty small apps that run **100% in your browser** — no server, no account, *
 
 | Project | What it is | Stack |
 |---|---|---|
-| **🧬 Life OS** | 30 local-first apps on one deterministic spine — the model narrates, the math decides | HTML · Vanilla JS |
+| **🧬 [Life OS](https://github.com/sachinai1981-web?tab=repositories&q=life-os&type=source)** | 30 local-first apps, each its own downloadable repo — the model narrates, the math decides | HTML · Vanilla JS |
 | **focus-forecast** | Pomodoro PWA that forecasts tomorrow's focus with TimesFM | PWA · TimesFM |
 | **Jot / focuscard-ios** | A local-first native iOS notes + planner app | Swift · Expo |
 | **notion-mcp-server** | MCP server connecting Claude to the Notion API | Node · TypeScript |
