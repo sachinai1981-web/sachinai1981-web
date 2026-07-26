@@ -88,3 +88,5 @@ Thirty small apps that run **100% in your browser** — no server, no account, *
 ---
 
 <p align="center"><i>⚡ Building in the open, one small local-first app at a time.</i></p>
+
+<!-- refresh -->
